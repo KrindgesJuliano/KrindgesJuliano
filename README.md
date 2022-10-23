@@ -3,7 +3,7 @@
 - 🔭 Atualmente trabalhando principalmente com front-end e algumas pitadas de back-end;
 - 🛠  Trabalho com frameworks e librarys JS, como React/Nextjs, NodeJS/NestJS entre outras;
 - 🌱 Estudando TDD,CI/CD e Flutter;
-- 📫 contate-me no email contatojulianokrindges@gmail.com.
+- 📫 contate-me no email contato@julianokrindges.com.
 
 <div>
   <a href="https://julianokrindges.com.br">
