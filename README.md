@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 Atualmente trabalhando principalmente com front-end e algumas pitadas de back-end;
-- 🛠  Trabalho com frameworks e librarys JS, como React/Nextjs, NodeJS/NestJS entre outras;
+- 🔭 Atualmente trabalhando principalmente com front-end e de back-end com algumas pitadas de Mobile;
+- 🛠  Trabalho com frameworks e librarys TypeScript, como React/Nextjs, NodeJS/NestJS entre outras;
 - 🌱 Estudando TDD,CI/CD e Flutter;
+- 📚 Pós Graduação Arquitetura de Software Distribuido pela PUC Minas - em andamento; 
 - 📫 contate-me no email contato@julianokrindges.com.
 
 <div>
